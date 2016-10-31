@@ -1,0 +1,20 @@
+p{
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: justify;
+}
+#logo{
+    text-align: center;
+}
+#resistor{
+	width: 60%;
+}
+.imag{
+	text-align: center;
+}
+#ask, #psk, #fsk{
+	width: 100%;
+}
+#formulas{
+	width: 100%;
+}
